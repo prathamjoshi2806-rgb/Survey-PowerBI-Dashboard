@@ -30,5 +30,9 @@ The objective of this project is to transform survey data into an interactive da
 ## Dashboard
 The Power BI `.pbix` file is included in this repository.
 
+## Dashboard Preview
+
+![Survey Power BI Dashboard](survey-dashboard.png)
+
 ## Author
 Pratham Joshi
