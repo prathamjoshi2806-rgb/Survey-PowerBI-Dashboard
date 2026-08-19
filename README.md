@@ -32,7 +32,7 @@ The Power BI `.pbix` file is included in this repository.
 
 ## Dashboard Preview
 
-![Survey Power BI Dashboard](survey-dashboard.png)
+![Survey Power BI Dashboard](Survey-PowerBI-Dashboard.png)
 
 ## Author
 Pratham Joshi
